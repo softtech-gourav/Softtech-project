@@ -1,7 +1,4 @@
 # Trend application
 
-This is a small application that contains main and test folders.  
-The Main contains the application code.  
-The test contains test cases.  
-It also contains pom.xml which has all dependencies and artifact name and version
+Welcome to the Trend Application, a simple yet powerful Spring Boot application! This app delivers a personalized greeting from its creator—**Gourav Patel, a passionate DevOps Engineer from India**.
 
